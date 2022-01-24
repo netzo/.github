@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://netzo.io" rel="noopener" target="_blank">
-    <img width="500" src="https://imagedelivery.net/ueE2deJ7Yq2Fp-coYWU15g/0376a270-206b-4695-7df3-cec789fc7300/public" alt="Netzo WoT Platform" />
+    <img width="500" src="https://imagedelivery.net/ueE2deJ7Yq2Fp-coYWU15g/0376a270-206b-4695-7df3-cec789fc7300/public" alt="Netzo" />
   </a>
 </p>
 
 <h1 align="center">Netzo WoT Platform</h1>
 
 <p align="center">
-  <a href="https://app.netzo.io" target="_blank">Netzo WoT Platform</a>, an open Web of Things platform to interconnect IoT devices, platforms and services over the web. 
+  <a href="https://app.netzo.io" target="_blank">Netzo</a>, the open Web platform to unify IoT devices, applications and services.
 </p>
   
 <div align="center">
