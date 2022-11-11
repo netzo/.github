@@ -1,13 +1,14 @@
-<p align="center">
-  <a href="https://netzo.io" rel="noopener" target="_blank">
-    <img width="500" src="https://imagedelivery.net/ueE2deJ7Yq2Fp-coYWU15g/0376a270-206b-4695-7df3-cec789fc7300/public" alt="Netzo" />
-  </a>
+
+<p align="center">Scripting Platform for Developers</p>
+<h1 align="center">Turn scripts into automations and UIs</h1>
+<p align="center"">
+Instantly deploy JavaScript and TypeScript to URL endpoints, connect essential APIs, automate business processes and build internal tools faster, without managing servers.
 </p>
 
-<h1 align="center">Netzo</h1>
-
 <p align="center">
-  <a href="https://app.netzo.io" target="_blank">Netzo</a>, the open platform to instantly deploy JavaScript and TypeScript to URL endpoints, connect essential APIs, automate business processes and build internal tools faster, without managing servers.
+  <a href="https://netzo.io" rel="noopener" target="_blank">
+    <img width="900" src="https://github.com/netzoio/website/blob/b0a6f9914ed08610952e97df78abafbfecc85953/src/public/images/home/save-hundreds-of-developer-hours.gif" alt="Netzo" />
+  </a>
 </p>
   
 <div align="center">
