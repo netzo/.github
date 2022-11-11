@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Netzo WoT Platform</h1>
+<h1 align="center">Netzo</h1>
 
 <p align="center">
-  <a href="https://app.netzo.io" target="_blank">Netzo</a>, the open Web platform to unify IoT devices, applications and services.
+  <a href="https://app.netzo.io" target="_blank">Netzo</a>, the open platform to instantly deploy JavaScript and TypeScript to URL endpoints, connect essential APIs, automate business processes and build internal tools faster, without managing servers.
 </p>
   
 <div align="center">
