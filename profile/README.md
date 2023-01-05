@@ -7,7 +7,7 @@ Instantly deploy JavaScript and TypeScript to URL endpoints, connect essential A
 
 <p align="center">
   <a href="https://netzo.io" rel="noopener" target="_blank">
-    <img width="900" src="https://github.com/netzoio/website/blob/b0a6f9914ed08610952e97df78abafbfecc85953/src/public/images/home/save-hundreds-of-developer-hours.gif" alt="Netzo" />
+    <img width="900" src="https://github.com/netzo/website/blob/b0a6f9914ed08610952e97df78abafbfecc85953/src/public/images/home/save-hundreds-of-developer-hours.gif" alt="Netzo" />
   </a>
 </p>
   
@@ -19,7 +19,7 @@ Instantly deploy JavaScript and TypeScript to URL endpoints, connect essential A
 </div>
 
 ## Quick Links
-- 🌐 **Website:** learn more about [netzo.io](https://netzoio.io)
-- 🐛 **Bug Fixes:** create an [issue](https://github.com/netzoio/netzo/issues)
-- 💡 **Ideas:** create or join a [discussions](https://github.com/netzoio/netzo/discussions)
-- 🛣️ **Roadmap:** check-out our [projects](https://github.com/netzoio/netzo/projects)
+- 🌐 **Website:** learn more about [netzo.io](https://netzo.io)
+- 🐛 **Bug Fixes:** create an [issue](https://github.com/netzo/netzo/issues)
+- 💡 **Ideas:** create or join a [discussions](https://github.com/netzo/netzo/discussions)
+- 🛣️ **Roadmap:** check-out our [projects](https://github.com/netzo/netzo/projects)
