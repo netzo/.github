@@ -7,7 +7,7 @@ Instantly deploy JavaScript and TypeScript to URL endpoints, connect essential A
 
 <p align="center">
   <a href="https://netzo.io" rel="noopener" target="_blank">
-    <img width="900" src="https://github.com/netzo/website/blob/b0a6f9914ed08610952e97df78abafbfecc85953/src/public/images/home/save-hundreds-of-developer-hours.gif" alt="Netzo" />
+    <img width="900" src="https://github.com/netzo/website/blob/1e86197ed16eadd4c0695271cadba8c1c7bdf562/src/public/images/home/save-hundreds-of-developer-hours.gif" alt="Netzo" />
   </a>
 </p>
   
