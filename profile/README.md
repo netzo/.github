@@ -13,7 +13,7 @@ Instantly deploy JavaScript and TypeScript to URL endpoints, connect essential A
   
 <div align="center">
   
-[![Discord](https://discord.com/api/guilds/790465167523577887/widget.png)](https://discord.gg/6wQRmrcPXp)
+[![Discord](https://discord.com/api/guilds/790465167523577887/widget.png)](https://discord.gg/tbDUpRQCTk)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/netzoio.svg?label=follow+netzoio)](https://twitter.com/netzoio)
 [![Visit our Channel](https://img.shields.io/youtube/channel/views/UCHFSTwM7-ZjeJRI0RwtlFmg)](https://www.youtube.com/channel/UCHFSTwM7-ZjeJRI0RwtlFmg)
 </div>
