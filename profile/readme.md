@@ -7,7 +7,7 @@
 <h3 align="center">Netzo</h3>
 
 <p align="center">
-  Code. Deploy. Repeat.
+  Build business web apps fast, with less resources
 </p>
 
 <p align="center">
