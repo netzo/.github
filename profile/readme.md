@@ -7,13 +7,7 @@
 <h3 align="center">Netzo</h3>
 
 <p align="center">
-  Build business web apps fast, with less resources
-</p>
-
-<p align="center">
-  <a href="https://netzo.io"><strong>Website</strong></a> ·
-  <a href="https://netzo.io/docs/introduction/getting-started"><strong>Docs</strong></a> ·
-  <a href="https://app.netzo.io/templates"><strong>Templates</strong></a>
+  <strong>Technological solutions</strong> for real world problems
 </p>
 
 <div align="center" style="margin-top: 24px;">
